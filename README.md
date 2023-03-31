@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ali-mashayekhi
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning laravel
+
 
 
 <!---
